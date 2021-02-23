@@ -1,16 +1,18 @@
 body {
+  background-color: #ffffff;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-position: bottom center;
+  background-image: url("uni-tel.jpg");
   height: 100vh;
 }
 h1 {
   text-align: center;
-  color: #ad9260;
+  color: #85c441;
   font-weight: normal;
 }
 h2 {
-  color: #fff;
-  font-family: trebuchet;
+  font-weight: 600;
+  color: #303030 !important;
 }
 .headingFront {
   font-size: 44px;
@@ -37,7 +39,7 @@ h2 {
   width: 98%;
   padding: 10px;
   opacity: 0.7;
-  background-color: #ddd;
+  background-color: #eeeeee;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -55,9 +57,13 @@ h2 {
 .category {
   width: 20%;
   float: left;
-  background-color: #ffffff;
+  background-color: #eeeeee;
+  border-style: solid #333;
   padding: 15px;
   margin: 3px;
+}
+.category h1 {
+  text-transform: uppercase;
 }
 .point {
   cursor: pointer;
@@ -66,7 +72,7 @@ button {
   width: 100%;
   margin-bottom: 4px;
   min-height: 30px;
-  background-color: #272727;
+  background-color: #aaa;
   cursor: pointer;
   color: #fff;
   border: none;
@@ -82,7 +88,7 @@ button {
   float: left;
   font-size: 17px;
   text-align: center;
-  color: #fff;
+  color: #85c441;
 }
 .questionText {
   font-size: 16px;
@@ -97,14 +103,14 @@ button {
   height: 60px;
 }
 body {
-  font: 14px "trebuchet", Futura, sans-serif;
+  font: 14px arial, Futura, sans-serif;
   margin: 20px;
 }
 .green {
-  color: #00ff00;
+  color: darkgreen;
 }
 .point {
-  background-color: #ad9263;
+  background-color: #85c441;
   cursor: pointer;
   font-size: 22px;
   border: none;

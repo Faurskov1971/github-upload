@@ -1,0 +1,425 @@
+{
+  "games": [
+    {
+      "category": "Jobs",
+      "question_array": [
+        {
+          "id": "q1",
+          "question": "Efter gymnasiet lærte jeg at arbejde i et team som...",
+          "point": 100,
+          "info": "Jeg var soldat ved Artelleriet på Almegårds Kaserne, som ligger lige uden for Rønne.",
+          "answer_array": [
+            {
+              "answer": "Soldat på Bornholm"
+            },
+            {
+              "answer": "Falck-redder i Løkken"
+            },
+            {
+              "answer": "Bartender i London"
+            },
+            {
+              "answer": "Opvasker på Bakken"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "Hvad lavede jeg hos IBM Learning Service?",
+          "point": 200,
+          "info": "I IBM udviklede vores lille team på tre blandt andet et kursus i, hvordan du skriver gode e-mails til TDC.",
+          "answer_array": [
+            {
+              "answer": "Udviklede E-læring"
+            },
+            {
+              "answer": "Solgte hardware"
+            },
+            {
+              "answer": "Opdaterede mainframe-databaser"
+            },
+
+            {
+              "answer": "Styrede byggeprojekter"
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "Hvad lavede jeg hos reklamebureauet Kidvertising?",
+          "point": 300,
+          "info": "Hos reklamebureauet Kidvertising arbejdede jeg med mange forskellige CMS-løsninger, animerede reklamer og udviklede quizzer & konkurrencer.",
+          "answer_array": [
+            {
+              "answer": "Udviklede alt med web"
+            },
+            {
+              "answer": "Var art director"
+            },
+            {
+              "answer": "Var projektleder"
+            },
+            {
+              "answer": "Var teknisk tegner"
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "question": "På forlaget Turbine var jeg primært ansat til at...",
+          "point": 400,
+          "info": "På forlaget udviklede jeg en digital læringsplatform, et stort dinosaurus-univers med spil og et spansk læringsspil.",
+          "answer_array": [
+            {
+              "answer": "Udviklede den digitale læringsplatform Læsemaskinen"
+            },
+            {
+              "answer": "Skrev bøger om IT til børn"
+            },
+            {
+              "answer": "Opdaterede forlagets hjemmeside"
+            },
+            {
+              "answer": "Tegnede et børneunivers"
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "question": "Hvad var min primære funktion hos Bestseller?",
+          "point": 500,
+          "info": "Min primære jobbeskrivelse i Team e-learning var 'Ansvarlig for det tekniske setup, vidensdeling samt at udvikle interaktive elementer til kurserne', men jeg var med i alle faser af projekterne.",
+          "answer_array": [
+            {
+              "answer": "Ansvarlig for det tekniske setup, vidensdeling samt interaktive elementer til kurserne"
+            },
+            {
+              "answer": "Ansvarlig for design"
+            },
+            {
+              "answer": "Projektleder og teamets ansigt udadtil"
+            },
+            {
+              "answer": "Korrektur og test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Erfaring",
+      "question_array": [
+        {
+          "id": "q6",
+          "question": "Hvorfra har jeg praktisk erfaring med implementering, drift og udvikling af digital læring?",
+          "point": 100,
+          "info": "Min erfaring stammer fra 20 års arbejdsliv med mange forskellige kasketter på undervejs. ",
+          "answer_array": [
+            {
+              "answer": "Bestseller, TDC, Danfoss, Finanssektorens Uddannelsescenter og IBM Learning Services"
+            },
+            {
+              "answer": "Min tid som ansat ved Team e-learning hos Bestseller"
+            },
+            {
+              "answer": "Fra mine kunder TDC, Danfoss og Finanssektorens Uddannelsescenter"
+            },
+            {
+              "answer": "Min tid som ansat ved IBM Learning Services"
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "question": "Jeg har stor erfaring med...",
+          "point": 200,
+          "info": "Ud over stor erfaring med at udvikle interaktive SCORM-kurser kan jeg skræddersy interaktive elementer i ren HTML5, JavaScript, CSS3 og meget mere...",
+          "answer_array": [
+            {
+              "answer": "Alle de nævnte programmer"
+            },
+            {
+              "answer": "Animate CC"
+            },
+            {
+              "answer": "Diverse Learning Management Systems (LMS) a la Fuse og Børsen Learning Center"
+            },
+            {
+              "answer": "Adobe Captivate"
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "question": "Hvor skinnede mine samarbejdsevner tydeligt igennem?",
+          "point": 300,
+          "info": "Jeg nyder at arbejde med dygtige mennesker - høje som lave - og trækker på mine mange års undervisningserfaring, når viden skal kommunikeres.",
+          "answer_array": [
+            {
+              "answer": "Alle de nævnte steder"
+            },
+            {
+              "answer": "Som facilitator af vidensdeling med kollegaer hos Bestseller"
+            },
+            {
+              "answer": "I mødet med mine 120 kunder i mit firma faurskov.com"
+            },
+            {
+              "answer": "Når jeg indsamlede viden til mine læringsspil hos landets lærere på messer og i test-setups med indbudte lærere"
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "question": "Jeg er vant til at arbejde selvstændigt og struktureret, fordi...",
+          "point": 400,
+          "info": "Mine mange års erfaring og min universitetsudddannelse er en god ballast, når jeg udvikler e-læring.",
+          "answer_array": [
+            {
+              "answer": "Alle nævnte grunde"
+            },
+            {
+              "answer": "Jeg har en akademisk baggrund"
+            },
+            {
+              "answer": "Jeg har mange års erfaring som selvstændig"
+            },
+            {
+              "answer": "Jeg har mange års erfaring i samarbejdet med gode kollegaer og kunder"
+            }
+          ]
+        },
+        {
+          "id": "q10",
+          "question": "Jeg er en god facilitator på grund af mange års erfaring med...",
+          "point": 500,
+          "info": "Jeg nyder mødet med andre mennesker og at være med til at gøre kollegaer - høje som lave - klogere på det, jeg ved noget om.",
+          "answer_array": [
+            {
+              "answer": "Alle de nævnte grunde"
+            },
+            {
+              "answer": "At holde foredrag"
+            },
+            {
+              "answer": "At undervise erhvervskursister og elever på eksempelvis Teknisk Skole, Arkitektskolen"
+            },
+            {
+              "answer": "At afholde vidensdelingsseminarer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Løsninger",
+      "question_array": [
+        {
+          "id": "q11",
+          "question": "TIl hvilken kunde udviklede jeg den digitale udgave af Sudoku, som blev et af de mest populære online-spil i Danmark det år?",
+          "point": 100,
+          "info": "Samarbejdet med TV2 varede i nogle år, og der kom mange andre spil til undervejs. Jeg lærte at reagere hurtigt, når TV2's mange brugere fandt fejl eller ønskede nye features.",
+          "answer_array": [
+            {
+              "answer": "spil.tv2.dk"
+            },
+            {
+              "answer": "Danfoss"
+            },
+            {
+              "answer": "TDC"
+            },
+            {
+              "answer": "Grundfos"
+            }
+          ]
+        },
+        {
+          "id": "q12",
+          "question": "Hvilken stor dansk virksomhed udviklede jeg julekalender til i en årrække?",
+          "point": 200,
+          "info": "Den interaktive julekalender skabte opmærksomhed om firmaets produkter. Danfoss' professionelle og dygtige medarbejdere var med til at gøre mig til en bedre udvikler med stort fokus på kvalitet.",
+          "answer_array": [
+            {
+              "answer": "Danfoss"
+            },
+            {
+              "answer": "Finanssektorens Uddannelsescenter"
+            },
+            {
+              "answer": "TDC"
+            },
+            {
+              "answer": "Maersk Containere"
+            }
+          ]
+        },
+        {
+          "id": "q13",
+          "question": "Hvad bestod mit iværksætterprojekt, som jeg arbejdede på fra 2015-17, af?",
+          "point": 300,
+          "info": "Mit iværksættereventyr teacher-content.com var læringsspil på ni sprog med fokus på faget geografi. Projektet gav mig viden om forretningsmodeller, at udvikle en stor SEO-optimeret hjemmeside på flere sprog og erfaring med købsprocessen.",
+          "answer_array": [
+            {
+              "answer": "Læringsspil på ni sprog"
+            },
+            {
+              "answer": "En ny og epokegørende betalingsløsning"
+            },
+            {
+              "answer": "Tøj til hunde"
+            },
+            {
+              "answer": "Et filosofisk univers til børnehavebørn"
+            }
+          ]
+        },
+        {
+          "id": "q14",
+          "question": "Hvilket dansk firma blev min første store kunde? Et samarbejde, som strakte sig over en del år med flere store e-learningskurser, der blev indledt af selveste Henning Dyremose.",
+          "point": 400,
+          "info": "Igennem årene lavede jeg blandt andet miljøkampagne, arbejdsmiljøkursus, skriftlig kommunikation, leverandør-database og store kampagnesites. Samarbejdet lærte mig at være den teknisk ansvarlige i samarbejde med mange forskellige afdelinger i det landsdækkende firma.",
+          "answer_array": [
+            {
+              "answer": "TDC"
+            },
+            {
+              "answer": "Knauf A/S"
+            },
+            {
+              "answer": "Aarhus Stiftstidende"
+            },
+            {
+              "answer": "Egmont"
+            }
+          ]
+        },
+        {
+          "id": "q15",
+          "question": "Som teknisk ansvarlig for Team e-learning var jeg den drivende kraft i at gøre dette firmas læringsunivers mobilvenligt. Hvilket firma?",
+          "point": 500,
+          "info": "På to år som teknisk ansvarlig fik vi gjort firmaets Content Learning System og de nye kurser mobilvenlige, sprogversionerede og meget mere interaktive.",
+          "answer_array": [
+            {
+              "answer": "Bestseller"
+            },
+            {
+              "answer": "TDC"
+            },
+            {
+              "answer": "Danfoss"
+            },
+            {
+              "answer": "Grundfos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Bag Brian",
+      "question_array": [
+        {
+          "id": "q16",
+          "question": "I min fritid har jeg, indtil jeg flyttede til København 1. januar, i 20 år været formand for...",
+          "point": 100,
+          "info": "Siden slutningen af 1990'erne har jeg været formand for foreningen Spark Mange Mål Aarhus. I klubben spiller vi indendørsfodbold.",
+          "answer_array": [
+            {
+              "answer": "Fodboldklubben Spark Mange Mål Aarhus"
+            },
+            {
+              "answer": "Dartklubben 'På pletten'"
+            },
+            {
+              "answer": "Cykelklubben 'Hele vejen rundt'"
+            },
+            {
+              "answer": "Hundeførerforeningen 'På plads'"
+            }
+          ]
+        },
+        {
+          "id": "q17",
+          "question": "Hvor mange børn har jeg?",
+          "point": 200,
+          "info": "Jeg har to døtre på 15 og 19 år, som går i henholdsvis 9. klasse og 3. g.",
+          "answer_array": [
+            {
+              "answer": "2"
+            },
+            {
+              "answer": "1"
+            },
+            {
+              "answer": "3"
+            },
+            {
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "id": "q18",
+          "question": "Hvor mange maratonløb har jeg løbet",
+          "point": 300,
+          "info": "Jeg har løbet maraton i Paris, London, Berlin og Odense. Før jeg blev en glad løber, cyklede jeg en del og har cyklet Sjælland Rundt, Vettern Rundt og Aarhus-København.",
+          "answer_array": [
+            {
+              "answer": "4"
+            },
+            {
+              "answer": "1"
+            },
+            {
+              "answer": "2"
+            },
+            {
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "id": "q19",
+          "question": "Jeg solgte domænenavnet www.spil.nu i 2014. Hvad tror I, at jeg fik for det?",
+          "point": 400,
+          "info": "Pengene brugte jeg til at købe mig selv fri til at starte mit iværksætterprojekt med læringsspil til folkeskolen.",
+          "answer_array": [
+            {
+              "answer": "400.000 kroner"
+            },
+            {
+              "answer": "17.000 og en iPhone"
+            },
+            {
+              "answer": "To uger i et sommerhus i Marbella"
+            },
+            {
+              "answer": "spilnu.dk fik domænenavnet gratis"
+            }
+          ]
+        },
+        {
+          "id": "q20",
+          "question": "Den næste digitale læringskonsulent i Politiet får over 16.000 kollegaer, men hvor mange besøgende har mine læringsspil haft over tid?",
+          "point": 500,
+          "info": "Jeg er stolt over, at så mange børn er blevet klogere ved at spille mine spil.",
+          "answer_array": [
+            {
+              "answer": "2.500.000 brugere"
+            },
+            {
+              "answer": "1.500.000 brugere"
+            },
+            {
+              "answer": "500.000 brugere"
+            },
+            {
+              "answer": "4.000.000 brugere"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
